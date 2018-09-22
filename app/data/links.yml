@@ -112,4 +112,5 @@ tiles:
 
 - name: 'Blog'
   url: 'https://thuault.com'
+  img: "logos/avatar.png"
   tags: ['website']
