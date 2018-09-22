@@ -32,9 +32,9 @@ tag = "media"
 icon = "video-camera"
 
 [[ params.nav ]]
-name = "Shopping"
-tag = "shopping"
-icon = "shopping-basket"
+name = "Forum"
+tag = "forum"
+icon = "reddit"
 
 [[ params.nav ]]
 name = "Development"
@@ -45,6 +45,11 @@ icon = "code"
 name = "Gaming"
 tag = "games"
 icon = "gamepad"
+
+[[ params.nav ]]
+name = "Shopping"
+tag = "shopping"
+icon = "shopping-basket"
 
 [[ params.nav ]]
 name = "thuault.com"
