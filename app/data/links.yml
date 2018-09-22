@@ -68,7 +68,7 @@ tiles:
   bg_color: '#ffffff'
 
 - name: 'Deliveroo'
-  url: 'https://deliveroo.com'
+  url: 'https://deliveroo.fr'
   img: "logos/deliveroo.svg"
   tags: ['shopping']
 
@@ -99,10 +99,15 @@ tiles:
   img: 'logos/drive.svg'
   tags: ['google']
 
+- name: 'ClickUp'
+  url: 'https://app.clickup.com'
+  img: "logos/clickup.png"
+  tags: ['productivity']
+
 - name: 'Agenda'
   url: 'https://calendar.google.com'
   img: 'logos/calendar.png'
-  tags: ['google']
+  tags: ['google', 'productivity']
 
 - name: 'Kubernetes Dashboard'
   url: 'https://k8s.thuault.com/#!/overview?namespace=_all'

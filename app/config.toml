@@ -37,6 +37,11 @@ tag = "forum"
 icon = "reddit"
 
 [[ params.nav ]]
+name = "Productivity"
+tag = "productivity"
+icon = "tasks"
+
+[[ params.nav ]]
 name = "Development"
 tag = "dev"
 icon = "code"
