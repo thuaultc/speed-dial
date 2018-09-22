@@ -1,3 +1,2 @@
-app/themes/slate
 app/public
 build/kubernetes/registry-secret.yaml
