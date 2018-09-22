@@ -110,15 +110,6 @@ tiles:
   bg_color: '#6060fe'
   tags: ['website']
 
-- name: 'Portal'
+- name: 'Blog'
   url: 'https://thuault.com'
   tags: ['website']
-
-- name: 'Website'
-  url: 'https://clement.thuault.com'
-  tags: ['website']
-  
-- name: 'Blog'
-  url: 'https://blog.thuault.com'
-  tags: ['website']
-    
