@@ -1,0 +1,52 @@
+baseURL = "https://speed-dial.thuault.com/"
+languageCode = "en-us"
+title = "Speed Dial"
+theme = "slate"
+
+[ params ]
+BackgroundImages = [
+  "background.jpg"
+]
+OpenLinksInNewWindow = false
+Favicon = "favicon.ico"
+
+# List of nav tags
+[[ params.nav ]]
+name = "Favorites"
+tag = "favorites"
+icon = "star"
+
+[[ params.nav ]]
+name = "Google"
+tag = "google"
+icon = "google"
+
+[[ params.nav ]]
+name = "Social"
+tag = "social"
+icon = "facebook-square"
+
+[[ params.nav ]]
+name = "Media"
+tag = "media"
+icon = "video-camera"
+
+[[ params.nav ]]
+name = "Shopping"
+tag = "shopping"
+icon = "shopping-basket"
+
+[[ params.nav ]]
+name = "Development"
+tag = "dev"
+icon = "code"
+
+[[ params.nav ]]
+name = "Gaming"
+tag = "games"
+icon = "gamepad"
+
+[[ params.nav ]]
+name = "thuault.com"
+tag = "website"
+icon = "user"

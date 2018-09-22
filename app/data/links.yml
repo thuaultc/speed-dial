@@ -1,0 +1,124 @@
+---
+tiles:
+- name: 'Gmail'
+  url: 'https://mail.google.com'
+  img: 'logos/gmail.svg'
+  tags: ['favorites', 'google']
+
+- name: 'Reddit'
+  url: 'https://old.reddit.com'
+  img: 'logos/reddit.svg'
+  bg_color: '#5f99cf'
+  txt_color: '#ffffff'
+  tags: ['favorites', 'forum']
+
+- name: 'Hacker News'
+  url: 'https://news.ycombinator.com'
+  img: "logos/hackernews.svg"
+  bg_color: '#FB651E'
+  tags: ['favorites', 'forum']
+
+- name: 'YouTube'
+  url: 'https://youtube.com'
+  img: 'logos/youtube.svg'
+  bg_color: '#ffffff'
+  tags: ['favorites', 'media']
+
+- name: "Twitch"
+  url: "https://twitch.tv"
+  img: "logos/twitch.svg"
+  bg_color: "#f1f1f1"
+  txt_color: "#6441a5"
+  tags: ['favorites', 'media']
+
+- name: 'Spotify'
+  url: 'https://open.spotify.com'
+  img: 'logos/spotify.svg'
+  bg_color: '#191414'
+  txt_color: '#1db954'
+  tags: ['favorites', 'media']
+
+- name: "Facebook"
+  url: "https://facebook.com"
+  img: "logos/facebook.svg"
+  tags: ['social']
+
+- name: "Twitter"
+  url: "https://twitter.com"
+  img: "logos/twitter.svg"
+  bg_color: "#1da1f2"
+  txt_color: "#f5f8fa"
+  tags: ['social']
+
+- name: 'LinkedIn'
+  url: 'https://linkedin.com'
+  img: "logos/linkedin.svg"
+  tags: ['social', 'dev']
+
+- name: 'Amazon'
+  url: 'https://amazon.com'
+  img: 'logos/amazon.svg'
+  bg_color: '#ffffff'
+  txt_color: '#ff9900'
+  tags: ['shopping']
+
+- name: 'Wikipedia'
+  url: 'https://fr.wikipedia.org'
+  img: 'logos/wikipedia.svg'
+  bg_color: '#ffffff'
+
+- name: 'Deliveroo'
+  url: 'https://deliveroo.com'
+  img: "logos/deliveroo.svg"
+  tags: ['shopping']
+
+- name: 'Uber Eats'
+  url: 'https://ubereats.com'
+  img: "logos/ubereats.svg"
+  tags: ['shopping']
+
+- name: 'Just Eat'
+  url: 'https://just-eat.fr'
+  img: "logos/justeat.svg"
+  bg_color: '#ffffff'
+  tags: ['shopping']
+
+- name: 'Lichess'
+  url: 'https://lichess.org'
+  img: "logos/lichess.svg"
+  bg_color: '#000000'
+  tags: ['games']
+
+- name: 'GitHub'
+  url: 'https://github.com'
+  img: "logos/github.svg"
+  tags: ['dev']
+
+- name: 'Drive'
+  url: 'https://drive.google.com'
+  img: 'logos/drive.svg'
+  tags: ['google']
+
+- name: 'Agenda'
+  url: 'https://calendar.google.com'
+  img: 'logos/calendar.png'
+  tags: ['google']
+
+- name: 'Kubernetes Dashboard'
+  url: 'https://k8s.thuault.com/#!/overview?namespace=_all'
+  img: "logos/kubernetes.svg"
+  bg_color: '#6060fe'
+  tags: ['website']
+
+- name: 'Portal'
+  url: 'https://thuault.com'
+  tags: ['website']
+
+- name: 'Website'
+  url: 'https://clement.thuault.com'
+  tags: ['website']
+  
+- name: 'Blog'
+  url: 'https://blog.thuault.com'
+  tags: ['website']
+    

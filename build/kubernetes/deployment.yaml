@@ -1,0 +1,28 @@
+---
+kind: Deployment
+apiVersion: extensions/v1beta1
+metadata:
+  name: speed-dial
+  namespace: website
+spec:
+  replicas: 3
+  template:
+    metadata:
+      labels:
+        app: speed-dial
+    spec:
+      imagePullSecrets:
+      - name: registry-credentials
+      containers:
+      - image: registry.thuault.com/clement/website/speed-dial:latest
+        imagePullPolicy: Always
+        name: speed-dial
+        ports:
+        - containerPort: 80
+        resources:
+          limits:
+            cpu: 50m
+            memory: 100Mi
+          requests:
+            cpu: 50m
+            memory: 100Mi
