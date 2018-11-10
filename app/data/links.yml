@@ -119,3 +119,8 @@ tiles:
   url: 'https://thuault.com'
   img: "logos/avatar.png"
   tags: ['website']
+
+- name: 'La Quête'
+  url: 'https://la-quete.thuault.com'
+  img: "logos/la-quete.svg"
+  tags: ['website']
