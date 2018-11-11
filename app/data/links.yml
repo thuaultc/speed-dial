@@ -120,7 +120,13 @@ tiles:
   img: "logos/avatar.png"
   tags: ['website']
 
-- name: 'La Quête'
+- name: 'La Quete'
   url: 'https://la-quete.thuault.com'
   img: "logos/la-quete.svg"
+  tags: ['website']
+
+- name: 'Bring-it'
+  url: 'https://bring-it.thuault.com'
+  img: "logos/bring-it.svg"
+  bg_color: '#f28e1c'
   tags: ['website']
